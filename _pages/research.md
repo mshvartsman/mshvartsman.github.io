@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My primary research interest is in building a computationally-implementable theory of human behavior and estimating it jointly from neural and behavioral data. This is a baby step towards the sci-fi dream of downloading brains into computers! I discuss some major lines of work below -- for a complete list of publications, see my [Publications page](/publications/). 
+I am inspired by the sci-fi dream of downloading brains into computers. While the realization of this dream is still incredibly far away, it drives my primary research interest of building a computationally-implementable theory of human behavior and estimating it jointly from neural and behavioral data. I discuss some major lines of work below -- for a complete list of publications, see my [Publications page](/publications/). 
 
 ## The dynamics of decision-making from multiple stimuli ##
 
