@@ -7,9 +7,31 @@ author_profile: true
 
 This is an exhaustive list; my [CV](/files/shvartsman_cv.pdf) has a more curated list and my [Research page](/research/) describes primary lines of work. 
 
-## Refereed Conference Proceedings ##
+# Table of Contents
+1. [Preprints](#preprints)
+2. [Refereed Conference Proceedings](#refereed-conference-proceedings)
+3. [Journal articles and book chapters](#journal-articles-and-book-chapters)
+4. [Working papers and commentaries](#working-papers-and-commentaries)
+5. [Posters and Oral Presentations (without proceedings)](#posters-and-Oral-Presentations-(without-proceedings))
 
-Spitzer, M., Musslick S., **Shvartsman, M.**, Shenhav A., and Cohen, J.D. (2019). Asymmetric switch costs as a function of task strength. To appear in Proceedings of the 41st Annual Conference of the Cognitive Science Society. Montreal, CA.
+## Preprints ##
+Owen, L., Browder, J., Letham, B., Stocek, G., Tymms, C., and **Shvartsman, M.**
+(Submitted). Adaptive Nonparametric Psychophysics. Preprint available at arXiv:[2104.09549](https://arxiv.org/abs/2104.09549).
+
+Kumar, M., ..., **Shvartsman, M.**, et al. (Submitted). BrainIAK: The Brain Imaging Analysis Kit. Preprint available at OSF: [10.31219/osf.io/db2ev](https://osf.io/db2ev/). 
+
+[🠕 top](#table-of-contents)
+
+## Refereed Conference Proceedings ##
+Scott, T., **Shvartsman, M.**, Ridgeway, K. (2020). Unifying Few- and Zero-Shot
+Egocentric Action Recognition. EPIC@CVPR2020. Extended abstract available at
+arXiv: [2006.11393][https://arxiv.org/abs/2006.11393].
+
+Cai, M. B., **Shvartsman, M.**, Wu, A. Zhang, H. and Zhu, X. (2020). Incorporating
+structured assumptions with probabilistic graphical models in fMRI data analysis.
+Neuropsychologia, 144:107500. doi:[10.1016/j.neuropsychologia.2020.107500](https://doi.org/10.1016/j.neuropsychologia.2020.107500)
+
+Spitzer, M., Musslick S., **Shvartsman, M.**, Shenhav A., and Cohen, J.D. (2019). Asymmetric switch costs as a function of task strength. In Proceedings of the 41st Annual Conference of the Cognitive Science Society.
 
 Musslick, S., Jang, S.J., **Shvartsman, M.**, Shenhav, A., and Cohen, J.D. (2018). Constraints associated with cognitive control and the stability-flexibility dilemma. In Proceedings of the 40th Annual Conference of the Cognitive Science Society.
 
@@ -27,7 +49,14 @@ Lositsky, O., Wilson, R. C., **Shvartsman, M.**, and Cohen, J. D. (2015). A Drif
 
 Bergelson, E., **Shvartsman, M.**,& Idsardi, W. J. (2010) Differences in Brain Responses to Vowels and Musical Intervals. In S. M. Demorest, S. J. Morrison, & P. S. Campbell (Eds.). Proceedings of the 11th International Conference on Music Perception and Cognition.
 
+[🠕 top](#table-of-contents)
+
 ## Journal articles and book chapters ##
+
+Boring, M., Ridgeway, K., **Shvartsman, M.**, and Jonker, T. (2020). Continuous
+decoding of cognitive load from electroencephalography reveals task-general and taskspecific
+correlates. Journal of Neural Engineering. doi:[10.1088/1741-2552/abb9bc](https://doi.org/10.1088/1741-2552/abb9bc)
+
 Parker, D., **Shvartsman, M.**, & Van Dyke, J. A. (2017). The cue-based retrieval theory of sentence comprehension: New findings and new challenges. In Escobar, L., Torrens, V., Parodi, T. (eds.) Language Processing and Disorders. Newcastle: Cambridge Scholars Publishing. 
 
 Lositsky, O., Chen, J., Toker, D., Honey, C. J., **Shvartsman., M.}, Poppenk, J. L., Hasson, U., and Norman, K. A. (2016). Neural Pattern Change During Encoding of a Narrative Predicts Retrospective Duration Estimates. eLife, 5:e16070. DOI: [10.7554/eLife.16070](http://dx.doi.org/10.7554/eLife.16070). 
@@ -36,10 +65,14 @@ Lewis, R. L., **Shvartsman, M.**, & Singh, S. (2013). The adaptive nature of eye
 
 Bergelson, E., **Shvartsman, M.**, & Idsardi, W. J. (2013). Differences in mismatch responses to vowels and musical intervals: MEG evidence. PLoS One, 8(10).  DOI:[10.1371/journal.pone.0076758](http://dx.doi.org/10.1371/journal.pone.0076758)
 
+[🠕 top](#table-of-contents)
+
 ## Working papers and commentaries ##
 **Shvartsman, M.**, Srivastava, V., Sundaram, N. and Cohen, J. D. (in prep.). A theory of decision making from multiple stimuli. Draft available upon request
 
 Bornstein A. M., **Shvartsman, M.** (2015). Distinguishing between descriptive and rational approaches to collapsing decision bounds. Unpublished commentary on Hawkins, et al. 2015. (equal contribution). Available upon request. 
+
+[🠕 top](#table-of-contents)
 
 ## Posters and Oral Presentations (without proceedings) ##
 **Shvartsman, M.** (2019). Gaussian processes and cognitive models for joint modeling of brain and behavior. **Invited talk**, Joint Modeling Workshop, Midwest Cognitive Science Conference.
@@ -79,3 +112,5 @@ de los Santos, G., **Shvartsman, M.**, Boland, J. E., & Lewis, R. (2015). Catego
 **Shvartsman, M.**, Lewis, R., Singh, S., Smith, M., & Bartek, B. (2011). Predicting Task Performance from Individual Variation in Eye-Movement Control Strategies. Poster presented at the 24th annual CUNY conference on human sentence processing.
 
 **Shvartsman, M.**, Bergelson, E. & Idsardi, W.J. (2009) From tones to vowels: a neurophysiological investigation of sine and formant dyads. Poster presented at the first annual neurobiology of language conference. 
+
+[🠕 top](#table-of-contents)
