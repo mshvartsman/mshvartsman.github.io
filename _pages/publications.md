@@ -23,6 +23,9 @@ Kumar, M., ..., **Shvartsman, M.**, et al. (Submitted). BrainIAK: The Brain Imag
 [🠕 top](#table-of-contents)
 
 ## Refereed Conference Proceedings ##
+
+
+
 Scott, T., **Shvartsman, M.**, Ridgeway, K. (2020). Unifying Few- and Zero-Shot
 Egocentric Action Recognition. EPIC@CVPR2020. Extended abstract available at
 arXiv: [2006.11393][https://arxiv.org/abs/2006.11393].
